@@ -1,7 +1,0 @@
-C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\UnitTestProject1\bin\Debug\CashRegisterTest.dll
-C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\UnitTestProject1\bin\Debug\CashRegisterTest.pdb
-C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\UnitTestProject1\bin\Debug\CashRegister.dll
-C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\UnitTestProject1\bin\Debug\CashRegister.pdb
-C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\UnitTestProject1\obj\Debug\CashRegisterTest.csprojResolveAssemblyReference.cache
-C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\UnitTestProject1\obj\Debug\CashRegisterTest.dll
-C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\UnitTestProject1\obj\Debug\CashRegisterTest.pdb
