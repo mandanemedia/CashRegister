@@ -16,3 +16,8 @@ The code should include a set of unit tests.
 
 Do not include a database, console application or GUI. The unit tests are all that is required. The goal of this exercise is to evaluate your coding style, OO design skills and functional completeness.
 
+## Solution Diagrams 
+![alt tag](https://github.com/mandanemedia/CashRegister/blob/master/Diagrams/NameSpace.ProductSellSection.jpg)
+![alt tag](https://github.com/mandanemedia/CashRegister/blob/master/Diagrams/NameSpace.ShoppingCartSection.jpg)
+
+
