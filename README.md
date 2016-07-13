@@ -17,6 +17,7 @@ The code should include a set of unit tests.
 Do not include a database, console application or GUI. The unit tests are all that is required. The goal of this exercise is to evaluate your coding style, OO design skills and functional completeness.
 
 ## Solution Diagrams 
+Note: These diagrams are an overview of the codes or they are not the exact representation of the codes. For example, ShoppingCartDecorator is a class that is inherited from ShoppingCart. 
 ![alt tag](https://github.com/mandanemedia/CashRegister/blob/master/Diagrams/NameSpace.ProductSellSection.jpg)
 ![alt tag](https://github.com/mandanemedia/CashRegister/blob/master/Diagrams/NameSpace.ShoppingCartSection.jpg)
 
