@@ -1,0 +1,5 @@
+C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.dll
+C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.dll
+C:\Users\Javanmardi\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
